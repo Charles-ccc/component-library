@@ -7,3 +7,5 @@
 6. CI/CD，文档生成等等
 
 scss文件名下划线前缀 表示不要将其编译到css文件，另外导入的时候也不用加前缀
+
+storybook-addon-react-docgen
